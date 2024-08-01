@@ -1,0 +1,28 @@
+/* body {
+    text-align: center;
+} */
+
+body {
+    position: relative;
+    left: 200px;
+}
+
+#header-2 {
+    font-size: 18px;
+}
+
+.section-titles {
+    font-size: 22px;
+}
+
+.section-topics {
+    text-decoration: underline;
+}
+
+
+/* 
+
+text-decoration: underline;
+class="section-topics"
+
+*/
